@@ -5,7 +5,7 @@ Projects
 
 1.Gen4Vid: Recreation Project- A reproduction of Molnár’s generative art style using square grids. The piece mimics her use of systematic patterns and geometric manipulation.
 
-2.Gem5Vid: Remixed Project- This remix introduces colour-reactivity to the grid-based system. The squares' color transformations are now influenced by movement of the squares.
+2.Gen5Vid: Remixed Project- This remix introduces colour-reactivity to the grid-based system. The squares' color transformations are now influenced by movement of the squares.
 
 
 Youtube Links for the Videos
